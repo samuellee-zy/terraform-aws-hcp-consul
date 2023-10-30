@@ -59,3 +59,6 @@ ingressGateways:
         type: LoadBalancer
         ports:
         - port: 8080
+
+meshGateway:
+  enabled: true
