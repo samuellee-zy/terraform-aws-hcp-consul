@@ -1,4 +1,6 @@
 global:
+  peering:
+    enabled: true
   enabled: false
   name: consul
   datacenter: ${datacenter}
